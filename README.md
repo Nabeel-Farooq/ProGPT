@@ -1,9 +1,5 @@
 # ProGPT - Free ChatGPT API
 
-[![PyPI](https://img.shields.io/pypi/v/progpt)](https://pypi.org/project/progpt)
-[![PyPI - Python Version](https://img.shields.io/pypi/pyversions/progpt)]()
-[![Downloads](https://static.pepy.tech/badge/progpt/month)](https://pepy.tech/project/progpt)
-
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 
 I reverse engineered **ChatGPT's Free Web API** and made this simple python package.
